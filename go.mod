@@ -227,7 +227,8 @@ replace (
 	// use Oraichain fork of cometbft
 	// go list -m -json github.com/oraichain/cometbft@482cde0c4e04479d4164b1b4f7a0b90071c58b7f | jq '.|"\(.Path) \(.Version)"' -r
 	// github.com/tendermint/tendermint => github.com/oraichain/cometbft v0.34.30-0.20240425173150-09d3515b75aa
-	github.com/tendermint/tendermint => github.com/oraichain/cometbft v0.34.30-0.20240822152340-79f7b8278984
+	// github.com/tendermint/tendermint => github.com/oraichain/cometbft v0.34.30-0.20240822152340-79f7b8278984
+	github.com/tendermint/tendermint => github.com/ledanghuy1811/cometbft v0.0.0-20241010043300-141efa8d8634
 
 	// Use ethermint fork that respects min-gas-price with NoBaseFee true and london enabled, and includes eip712 support
 	// also add params query, fix proto account & ibc v3 to v4 compatibility, and get first 4 bytes of sha256(chain_id) when not eip159 compatible

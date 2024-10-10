@@ -609,6 +609,8 @@ github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
 github.com/labstack/echo/v4 v4.5.0/go.mod h1:czIriw4a0C1dFun+ObrXp7ok03xON0N1awStJ6ArI7Y=
 github.com/labstack/gommon v0.3.0/go.mod h1:MULnywXg0yavhxWKc+lOruYdAhDwPK9wf0OL7NoOu+k=
+github.com/ledanghuy1811/cometbft v0.0.0-20241010043300-141efa8d8634 h1:lNnU8nGDQluHAkXldSsuroI1DcmE+2n7qx4HbalfZRw=
+github.com/ledanghuy1811/cometbft v0.0.0-20241010043300-141efa8d8634/go.mod h1:L9shMfbkZ8B+7JlwANEr+NZbBcn+hBpwdbeYvA5rLCw=
 github.com/leodido/go-urn v1.2.0/go.mod h1:+8+nEpDfqqsY+g338gtMEUOtuK+4dEMhiQEgxpxOKII=
 github.com/leodido/go-urn v1.2.1 h1:BqpAaACuzVSgi/VLzGZIobT2z4v53pjosyNd9Yv6n/w=
 github.com/leodido/go-urn v1.2.1/go.mod h1:zt4jvISO2HfUBqxjfIshjdMTYS56ZS/qv49ictyFfxY=
@@ -727,8 +729,6 @@ github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5/go.mod h1:/wsWhb9smxS
 github.com/openzipkin/zipkin-go v0.1.6/go.mod h1:QgAqvLzwWbR/WpD4A3cGpPtJrZXNIiJc5AZX7/PBEpw=
 github.com/openzipkin/zipkin-go v0.2.1/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnhQw8ySjnjRyN4=
 github.com/openzipkin/zipkin-go v0.2.2/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnhQw8ySjnjRyN4=
-github.com/oraichain/cometbft v0.34.30-0.20240822152340-79f7b8278984 h1:6bnkvlyGf6PE+3+/fM9Ic5Yb5qafPf1iM1YG21UOxt4=
-github.com/oraichain/cometbft v0.34.30-0.20240822152340-79f7b8278984/go.mod h1:L9shMfbkZ8B+7JlwANEr+NZbBcn+hBpwdbeYvA5rLCw=
 github.com/oraichain/cosmos-sdk v0.45.17-0.20240822154747-4cc2e82d6f68 h1:zXer3jRPWbrC9jl7w2cEx4nCY19QWKNRdQ7l8xF7/+U=
 github.com/oraichain/cosmos-sdk v0.45.17-0.20240822154747-4cc2e82d6f68/go.mod h1:bScuNwWAP0TZJpUf+SHXRU3xGoUPp+X9nAzfeIXts40=
 github.com/oraichain/ethermint v0.14.1-0.20240918072557-f5263be1acb3 h1:21lLXI+p0tpdKrijfK4HEox/uk+UjL42AoHicpb8GDM=
